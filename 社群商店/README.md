@@ -20,3 +20,9 @@
 <br>
 
 [![示範影片](https://user-images.githubusercontent.com/114442425/193386113-aa81e658-435d-4e19-83a2-0fc831b32f1f.jpg)](https://www.youtube.com/watch?v=zM74L_3Iyis&list=PL1rJWUszYaFdqIL5U3sKecRRr-0a-iBfr&index=2)
+
+------------
+
+透過使用網站api，批量封鎖黑名單ID
+<br>
+原先使用異步對社群網站api發送請求，大幅提高封鎖速度，但是被403，所以改回同步
